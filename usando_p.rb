@@ -1,0 +1,3 @@
+name = "hello"
+
+puts name
